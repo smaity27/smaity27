@@ -1,10 +1,9 @@
-<!--
-**smaity27/smaity27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 # 💫 About Me:
-## Hi there I'am Sayantan👋<br><!--<br>**smaity27/smaity27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>--><br><br>Here are some ideas to get you started:<br><br>- 🔭 I’m a QA automation Tester.<br>- 🌱 I’m currently learning Gen AI and Agentic AI<br>- 👯 I’m looking to collaborate on ...<br>- 🤔 I’m looking for help with ...<br>- 💬 Ask me about ...<br>- 📫 How to reach me: ...<br>- 😄 Pronouns: ...<br>- ⚡ Fun fact: ...
-
+## Hi there I'am Sayantan👋<br><!--<br>**smaity27/smaity27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>--><br><br>Here are some ideas to get you started:<br><br>- 
+🔭 I’m a QA automation Tester. 
+🌱 I’m currently learning Gen AI and Agentic AI 
+👯 I’m looking to collaborate on ...
+🤔 I’m looking for help with 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maitysayantan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayantanmaity2795@gmail.com) 
