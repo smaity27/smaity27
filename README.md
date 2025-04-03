@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there I'am Sayantan👋<br><!--<br>**smaity27/smaity27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>--><br><br>Here are some ideas to get you started:<br><br>- 
+## Hi there I'am Sayantan👋<br><!--<br>**smaity27/smaity27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>--><br><br>Here are some ideas to get you started:<br>
 🔭 I’m a QA automation Tester. 
 🌱 I’m currently learning Gen AI and Agentic AI 
 👯 I’m looking to collaborate on ...
